@@ -1,6 +1,7 @@
-# Open items (as of Aug 2281)
+# Open items (as of Aug 2282)
 
 ## Waiting for the player
+0. **Veer's three mid-sized businesses to fund harder** (Clean Energy and Power Systems, Life insurer, Konark; about Rs 40,000 cr extra over four years, sim). Options A/B/C/D shown Aug 2282.
 1. ~~Veer's priorities for 2282-2285~~ **Decided Aug 2281: option B** (see governance file).
 2. **Founder's name and year.** The player says Vedang is not the founder. The founder and the year are not recorded.
 3. **Vedang's age and the Trust's leadership plan.** Age unknown; the Trust needs a plan for who leads it next.

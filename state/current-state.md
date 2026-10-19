@@ -1,14 +1,20 @@
-# Current state: about Aug 2281
+# Current state: about Aug 2282
 
-**Player:** Advait Smith, Chairman (since Jan 2269). Age 50 as of Nov 2279 (player confirmed "now"). Veer Smith (Group CEO) is 40 as of Nov 2279. Son Rishaan Smith (name unconfirmed, sim) is about 14.
+**Player:** Advait Smith, Chairman (since Jan 2269). Age 50 as of Nov 2279 (player confirmed "now"). Veer Smith (Group CEO) is 40 as of Nov 2279. Son Rishaan Smith (name unconfirmed, sim) is about 15.
 
 ## Group at a glance (sim)
-| Item | Aug 2281 |
+| Item | Aug 2282 |
 |---|---|
-| Group profit | About Rs 6,55,00,000 cr a year, up about 7.4% |
-| Employees | About 31,60,000 |
-| Cash | About Rs 7,00,00,000 cr (floor Rs 10,00,000 cr) |
-| Top-three businesses' share of profit | About 55% |
+| Group profit | About Rs 7,04,00,000 cr a year, up about 7.5% |
+| Employees | About 32,60,000 |
+| Cash | About Rs 7,30,00,000 cr (floor Rs 10,00,000 cr) |
+| Top-three businesses' share of profit | About 53% |
+
+## Aug 2282 events (sim)
+- Forge sixth fab produced its first chips in 2282, on time and about 1% over budget. Tranche 3 spent.
+- Veer's 2282-2285 priorities (option B) are running: growth 7.5% (floor 7%), top three below 52% by 2285.
+- Aug 2282 succession review (Ira Menon): plan on track, option A in place.
+- Veer proposed three mid-sized businesses to fund harder (awaiting the player's approval).
 
 ## Leadership
 - Group CEO: **Veer Smith** (since Jan 2266). Deputy Group CEO: **Neha Prabhu**. Group COO: Sanjay Rao (sim).
