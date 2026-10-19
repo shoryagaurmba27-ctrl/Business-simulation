@@ -14,7 +14,7 @@
 - Forge sixth fab produced its first chips in 2282, on time and about 1% over budget. Tranche 3 spent.
 - Veer's 2282-2285 priorities (option B) are running: growth 7.5% (floor 7%), top three below 52% by 2285.
 - Aug 2282 succession review (Ira Menon): plan on track, option A in place.
-- Veer proposed three mid-sized businesses to fund harder (awaiting the player's approval).
+- Player approved (option A) Veer's three mid-sized businesses for extra funding: Clean Energy and Power Systems, Life insurer, Konark (about Rs 40,000 cr over four years).
 
 ## Leadership
 - Group CEO: **Veer Smith** (since Jan 2266). Deputy Group CEO: **Neha Prabhu**. Group COO: Sanjay Rao (sim).
