@@ -21,4 +21,6 @@ You (Claude) are the simulation engine and the world around the player. The play
 - The player played Vedang Smith until Jan 2269, then became **Advait Smith, Chairman**. Vedang is now a character you run (Chairman Emeritus, leads the Smith Family Trust). The player says Vedang is NOT the founder; the founder's name and year are still unrecorded.
 
 ## Saving
-- After major turns, update the files in `state/` and commit. Keep `state/open-items.md` and `state/current-state.md` current.
+- **Every time the player says "Move ahead" (or "Move", or "Cut to N years"), update the files in `state/` and commit and push to `main` in the same turn, before or right after giving the report.** Say in one line that it was saved.
+- Also save after any big decision or correction. Keep `state/open-items.md`, `state/current-state.md` and `state/decision-log.md` current.
+- Repo: `shoryagaurmba27-ctrl/Business-simulation` (branch `main`).
