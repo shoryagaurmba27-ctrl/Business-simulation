@@ -14,6 +14,7 @@
 ## Standing directives
 - Keep adding mines within the mining budget (base Rs 12,000 cr a year, flex up to Rs 25,000 cr when demand tests are met, no more than 25% of mining capital in one country, environment, community and conduct checks before every deal; deals above Rs 15,000 cr still come to the Chairman).
 - Veer's priorities for 2278-2281 (approved): growth at least 8% (floor 7.5% if safety or conduct gates conflict), top three businesses below 50% of profit (floor 55%), Anvil, Forge and Digital Infra each top 3 globally, resilience rules (no supplier above 10% of sales), two ready successors for each Level 1 and 2A role.
+- **Veer's priorities for 2282-2285 (approved Aug 2281, option B):** profit growth 7.5% (floor 7%); top three businesses below 52% of profit by 2285; fund two or three mid-sized businesses harder; Forge, Anvil and the space venture keep growing. Growth beyond the floor counts only if safety and conduct gates are met. Cash floor, yearly acquisition limit, 10% supplier cap and two ready successors per Level 1 and 2A role all stay.
 - Firewall: Forge sells to outside buyers on the same terms as to group companies. The General Counsel keeps the firewall and the independent review of Blacksmith Capital's lending.
 - Government Affairs: lawful influence only.
 

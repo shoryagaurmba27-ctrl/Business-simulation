@@ -1,7 +1,7 @@
 # Open items (as of Aug 2281)
 
 ## Waiting for the player
-1. **Veer's priorities for 2282-2285.** He asks whether to keep the same growth and spread targets (two were missed) or reset them. Options still to be drafted.
+1. ~~Veer's priorities for 2282-2285~~ **Decided Aug 2281: option B** (see governance file).
 2. **Founder's name and year.** The player says Vedang is not the founder. The founder and the year are not recorded.
 3. **Vedang's age and the Trust's leadership plan.** Age unknown; the Trust needs a plan for who leads it next.
 

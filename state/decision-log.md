@@ -37,4 +37,4 @@
 - Aug 2279: named his son Rishaan as the designated Chairman-successor-in-training. Approved a sixth Forge fab (about Rs 1,10,000 cr). Delegated Veer's 2278-2281 priorities, the competition inquiry and treasury policy to Veer (with the General Counsel and Group CFO). Asked the CHRO to study C-suite pay.
 - Nov 2279: approved Veer's final priorities (with a softer floor) and Mira Kulkarni's lower-variable-pay change for control roles. Confirmed ages: Advait 50, Veer 40 (now). Said Vedang is not the founder.
 - Aug 2280: Vice Chairman not needed; Veer is the emergency stand-in as acting Chairman. Bridge option A: Advait stays Chairman until Rishaan is ready.
-- Aug 2281: moved ahead one year. Veer's 2278-2281 results reported. Decision on Veer's 2282-2285 priorities pending.
+- Aug 2281: moved ahead one year. Veer's 2278-2281 results reported. Chose option B for Veer's 2282-2285 priorities (growth 7.5% with floor 7%; top three below 52% of profit by 2285).
